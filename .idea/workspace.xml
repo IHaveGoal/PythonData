@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e8c75129-aa23-41f0-b252-3a41310df274" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15151.py" beforeDir="false" afterPath="$PROJECT_DIR$/15151.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +93,31 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="13" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -102,7 +126,17 @@
     <favorites_list name="python数据分析" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15151.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,6 +165,7 @@
         <option value="$PROJECT_DIR$/matplotlib/世界人口数据分析/americas.svg" />
         <option value="$PROJECT_DIR$/matplotlib/骰子模拟.py" />
         <option value="$PROJECT_DIR$/matplotlib/API/Python_respos.py" />
+        <option value="$PROJECT_DIR$/15151.py" />
       </list>
     </option>
   </component>
@@ -141,8 +176,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="724" />
-    <option name="y" value="81" />
+    <option name="x" value="773" />
+    <option name="y" value="67" />
     <option name="width" value="1072" />
     <option name="height" value="879" />
   </component>
@@ -151,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +203,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,6 +412,21 @@
       <option name="presentableId" value="Default" />
       <updated>1545576988084</updated>
     </task>
+    <task id="LOCAL-00001" summary="ces">
+      <created>1555048977199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555048977199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ces">
+      <created>1555049063574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555049063574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -389,9 +439,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="454" y="59" width="1072" height="879" extended-state="0" />
+    <frame x="773" y="67" width="1072" height="879" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.18972331" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.19367589" />
       <window_info id="Structure" order="1" sideWeight="0.50087875" side_tool="true" weight="0.26368612" />
       <window_info id="Favorites" order="2" sideWeight="0.50087875" side_tool="true" weight="0.26368612" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,7 +453,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32977462" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293011" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009124" side_tool="true" weight="0.32502964" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32977462" />
@@ -419,6 +470,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ces" />
+    <option name="LAST_COMMIT_MESSAGE" value="ces" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/matplotlib/天气CSV数据分析/sitka_weather_2014.csv">
@@ -523,6 +578,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="23" selection-start-line="23" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15151.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
